@@ -1,6 +1,6 @@
 # MugenEngineZero
 
-Minimal Allegro5 template : ready to code proto, 
+Minimal Allegro5 template : Ready to code proto !
 
 Tools required : Code::Blocks 16.01 + GCC 6.2
 
